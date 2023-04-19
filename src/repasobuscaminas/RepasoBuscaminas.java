@@ -27,6 +27,7 @@ public class RepasoBuscaminas {
             
             System.out.println("CASO " + (u + 1));
             System.out.println("--------");
+            System.out.println("---GIT2 MODIFICADO-----");
             
             int[][] matriz = new int[8][8];
         
