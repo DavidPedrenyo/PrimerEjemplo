@@ -29,7 +29,9 @@ public class RepasoBuscaminas {
             System.out.println("--------");
             System.out.println("---GIT2 MODIFICADO-----");
             System.out.println("---GIT3 MODIFICADO-----");
-            
+            System.out.println("---------------------------------");
+            System.out.println("---GIT4 MODIFICANDO 2º CLASE-----");
+            System.out.println("---------------------------------");
             
             int[][] matriz = new int[8][8];
         
